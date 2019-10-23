@@ -1,0 +1,11 @@
+import './css/btn.css';
+import './css/icon.css';
+import './css/iconHeart.css';
+import './css/notificacao.css';
+import './css/novoTweet.css';
+import './css/reset.css';
+import './css/trendsArea.css';
+import './css/widget.css';
+import './css/navMenu.css';
+import './css/tweet.css';
+import './css/cabecalho.css';

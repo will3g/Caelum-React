@@ -1,0 +1,32 @@
+python -m SimpleHTTPServer
+http-server -c-1
+
+https://github.com/CaelumAulas/react8773
+
+
+lista:
+
+    .unshift >>>  
+    .push >>> 
+
+
+npx -p create-react-app@<versão> <nome-projeto>
+
+http://dontpad.com/react8773
+
+npm publish
+
+
+https://github.com/browserslist/browserslist
+https://babeljs.io/
+
+https://create-react-app.dev/docs/getting-started/
+
+
+Pesquisar >>> ReactDOM.hydrate();
+
+// API NASA = https://api.nasa.gov/
+
+green book
+
+https://reacttraining.com/react-router/web/guides/quick-start
