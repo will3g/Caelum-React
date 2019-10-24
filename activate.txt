@@ -30,3 +30,28 @@ Pesquisar >>> ReactDOM.hydrate();
 green book
 
 https://reacttraining.com/react-router/web/guides/quick-start
+
+----------------------------
+
+Redux
+
+1. -> padrão call-back
+2. -> padrão
+3. -> padrão
+
+
+---------------------------------
+
+Links: 
+
+prop drilling react
+redux react patterns
+
+https://dev.to/pigozzifr/react-redux-connectors-pattern-51oc
+https://www.learnhowtoprogram.com/react/advanced-topics/react-and-redux-design-patterns
+https://www.codingame.com/playgrounds/8595/reactjs-higher-order-components-tutorial
+https://medium.com/reactbrasil/meu-primeiro-higher-order-component-a376efc654a8
+https://create-react-app.dev/docs/advanced-configuration/
+https://medium.com/reactbrasil/formik-com-hooks-simplicidade-e-pot%E1%BB%81ncia-useformik-parte-1-d518fec52dae
+https://www.npmjs.com/package/react-valida-hook
+https://www.npmjs.com/package/prop-types

@@ -50,9 +50,17 @@
   outline: 0;
 }
 
+.loginPage__background_invalido {
+    background: #f7dedf;
+}
+
+.loginPage__invalido {
+    border: 1px solid red;
+  }
+
 .loginPage__btnLogin {
     color: white;
-    background-color: #58CEF2;
+    background-color: rgb(35, 188, 235);
     border-color: transparent;
     border-radius: 4px;
     cursor: pointer;

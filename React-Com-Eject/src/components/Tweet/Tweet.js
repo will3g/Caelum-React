@@ -1,10 +1,13 @@
-import React from 'react'
+import React from 'react';
+import PropTypes from 'prop-types';
 
 import './tweet.css'
 
-// Componente é uma função
+Tweet.propTypes = {
+    qtdLikes: PropTypes.number,
+}
+
 export function Tweet(props) {
-    // RETORNA um Elemento
     return (
         <article className="tweet">
             <div className="tweet__cabecalho">
